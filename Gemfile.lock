@@ -1,5 +1,6 @@
-PATH
-  remote: lita-test
+GIT
+  remote: https://github.com/fieldwind1/test2.git
+  revision: d076048c8294d67e5d0311625518d35919c1fe7f
   specs:
     lita-test (0.1.0)
       lita (>= 4.8)
