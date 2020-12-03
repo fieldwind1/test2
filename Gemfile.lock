@@ -57,9 +57,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  lita!
-  lita-doubler!
-  lita-slack!
+  lita
+  lita-doubler
+  lita-slack
 
 BUNDLED WITH
    2.1.4
