@@ -4,7 +4,7 @@ gem "lita"
 gem 'lita-slack'
 gem 'lita-doubler'
 
-gem 'lita-test' , path: '../lita-test'
+gem 'lita-test' , path: '../just1/lita-test'
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
 
