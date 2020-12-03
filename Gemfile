@@ -2,7 +2,8 @@ source "https://rubygems.org"
 
 gem "lita"
 gem 'lita-slack'
-# gem 'lita-doubler'
+# gemspec
+gem 'lita-doubler'
 
 # gem 'lita-test' , path: '../just1/lita-test'
 # Uncomment to use the HipChat adapter
