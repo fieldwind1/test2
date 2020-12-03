@@ -1,11 +1,11 @@
-source "https://rubygems.org"
+source "https://rubygems.org" do
 
-gem "lita"
-gem 'lita-slack'
+	gem "lita"
+	gem 'lita-slack'
 
-gem 'lita-doubler'
-gemspec
-# gem 'lita-test' , path: '../just1/lita-test'
+	gem 'lita-doubler'
+end
+gem 'lita-test' , path: '../just1/lita-test'
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
 
