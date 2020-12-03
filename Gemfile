@@ -3,7 +3,8 @@ source "https://rubygems.org"
 gem "lita"
 gem 'lita-slack'
 gem 'lita-doubler'
-gemspec
+
+gem 'lita-test' , path: '../lita-whats-brad-eating'
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
 
