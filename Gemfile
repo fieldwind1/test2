@@ -6,7 +6,7 @@ source "https://rubygems.org" do
 	gem 'lita-doubler'
 end
 
-gem 'lita-test', github: "fieldwind1/test"
+gem 'lita-test', github: "fieldwind1/test2"
 # gem 'lita-test' , path: '../just1/lita-test'
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
