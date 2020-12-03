@@ -1,10 +1,10 @@
-source "https://rubygems.org" do
+source "https://rubygems.org" 
 
 	gem "lita"
 	gem 'lita-slack'
 
 	gem 'lita-doubler'
-end
+
 
 # gem 'lita-test', github: "fieldwind1/test2"
 # gem 'lita-test' , path: '../just1/lita-test'
